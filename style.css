@@ -1,0 +1,18 @@
+body{
+    width: 100vw;
+    height: 100vh;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: #708090;
+    background-size: 64px 128px;
+    display: grid;
+    place-items: center;
+  
+}
+
+.svg{
+    box-shadow: 0 0 2em black;
+}
+
+.bar:hover{
+    fill: #fff;
+}
